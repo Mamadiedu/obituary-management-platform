@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /admin/
+Disallow: /private/
+Sitemap: http://localhost/obituary_app/sitemap.php
